@@ -21,9 +21,7 @@ This is a decentralized NFT marketplace built using Hardhat and Next.js. The mar
 - Hardhat
 - MetaMask or other Ethereum wallet for interacting with the app
 
-
-
-2. **Installed dependencies:**
+**Installed dependencies:**
 
    ```bash
    npm install
